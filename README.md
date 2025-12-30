@@ -1,4 +1,4 @@
-# H-002 | Customer Experience Automation
+Privacy-Aware Adaptive RAG System for Retail CX
 
 Complete implementation of the Hyper-Personalized Nike AI Assistant with
 Adaptive RAG, Single PII Redaction, and Gemini LLM integration.
